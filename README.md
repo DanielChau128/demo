@@ -1,3 +1,5 @@
+Found here: https://github.com/evanwill/workshop-template
+
 # workshop-template
 
 A Jekyll template for a simple workshop website, based on the [Minima theme](https://github.com/jekyll/minima), designed for hosting on [gh-pages](https://pages.github.com/).
