@@ -4,7 +4,7 @@ title: Home
 
 # Mama's Favourites!
 
-{% include figure.html img="istockphoto-1350259361-612x612.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="istockphoto-1350259361-612x612.jpg" alt="intro image here" caption="Food" width="75%" %}
 
 We are a family-run business serving only the best Italian and Mediterranean dishes in Birmingham
 
