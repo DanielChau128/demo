@@ -18,7 +18,7 @@ Established over 20 years ago we bring a relaxed atmosphere to ensure you can im
 {% endfor %}
 </div>
 
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
+Hosted by [Github](https://github.com/), {{ site.pub_year }}.
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
