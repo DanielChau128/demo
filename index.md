@@ -8,7 +8,7 @@ title: Home
 
 We are a family-run business serving only the best Italian and Mediterranean dishes in Birmingham
 
-Established over 20 years ago and our 
+Established over 20 years ago we bring a relaxed atmosphere to ensure you can immerse yourself in our food.
 
 <div class="toc" markdown="1">
 ## Contents:
